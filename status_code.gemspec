@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name        = 'status_code'
   s.version     = '0.1.7'
 
-  s.date        = '2020-03-03'
+  s.date        = '2026-05-19'
   s.summary     = 'Decoding transactions bank codes'
   s.description = 'Responsible for decoding transactions result codes'
   s.authors     = ['Sergey Semaschyk']
